@@ -1,0 +1,5 @@
+.menu {
+  display: flex;
+  gap: 50px;
+  font-size: 2rem;
+}
